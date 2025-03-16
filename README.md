@@ -2,7 +2,7 @@
 
 A simple chatbot built with HTML, CSS, and JavaScript. Currently, it provides predefined responses, with plans to connect it to an AI API for smarter, dynamic answers.
 
-![Chatbot Screenshot](screenshot/chatbot.png)
+![Chatbot Screenshot](screenshots/chatbot.png)
 
 ## Features
 - Basic chatbot with predefined responses.
